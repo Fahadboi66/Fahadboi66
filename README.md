@@ -28,19 +28,15 @@ An AI-powered educational platform that connects students with verified tutors t
 
 ---
 
-## 🤖 Research Scout Agent (Multi-Agent System)
-
-A collaborative AI system where a Supervisor Agent coordinates multiple Worker Agents to perform research tasks efficiently using a local-first architecture.
+## 🤖 Research Scout Agent
+A collaborative AI system to perform research about topics efficiently 
 
 ### Highlights
 
-- Multi-Agent architecture
-- Supervisor & Worker agents
 - FastAPI backend
 - React + TypeScript frontend
 - Agent memory
 - Standardized communication
-- Local-first execution
 
 ---
 
