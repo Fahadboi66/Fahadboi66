@@ -6,8 +6,6 @@ I'm a **Software Engineering graduate from FAST-NUCES Islamabad (Class of 2026)*
 
 Over the past few years, I've built projects ranging from AI-powered educational platforms and real-time communication systems to healthcare, fintech, and collaborative applications. I enjoy solving challenging engineering problems and building software that scales.
 
-I'm currently on a **6-month journey (July → December 2026)** to transition into AI Engineering, focusing on Large Language Models (LLMs), AI Agents, RAG systems, and MLOps while documenting the entire process publicly.
-
 ---
 
 # ⭐ Featured Projects
