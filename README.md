@@ -10,6 +10,8 @@ Over the past few years, I've built projects ranging from AI-powered educational
 
 # ⭐ Featured Projects
 
+
+
 ## 🎓 Tutorify — AI-Powered Educational Platform *(Final Year Project)*
 
 An AI-powered educational platform that connects students with verified tutors through intelligent matchmaking while providing a complete learning ecosystem.
